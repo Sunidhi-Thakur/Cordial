@@ -1,0 +1,169 @@
+<resources>
+    <string name="app_name">Cordial</string>
+
+    <!--Login Page-->
+    <string name="subString">\"Healing takes time, and asking for help is a courageous step.\”</string>
+    <string name="welcome">WELCOME</string>
+    <string name="login">Login Details</string>
+    <string name="email">E-Mail</string>
+    <string name="password">Password</string>
+    <string name="sign_up">New Here? Sign Up</string>
+    <string name="forgot">Forgot Password</string>
+    <string name="sign_in">LOGIN</string>
+    <string name="sign_in_details">Create an Account</string>
+    <string name="name">Name</string>
+    <string name="sign1">Sign Up</string>
+
+    <!--Dashboard-->
+    <string name="anxiety">ANXIETY\n</string>
+    <string name="anxietyQuote">You don’t have to control your thoughts. You just have to stop letting them control you.  \n\n— Dan Millman</string>
+    <string name="depression">DEPRESSION\n</string>
+    <string name="depressionQuote">Every man has his secret sorrows which the world knows not; and often times we call a man cold when he is only sad. \n\n \― H. W. Longfellow</string>
+    <string name="know_more">Know More</string>
+    <string name="stress">STRESS\n</string>
+    <string name="stressQuote">The greatest weapon against stress is our ability to choose one thought over another.\n\n \– William James</string>
+    <string name="discover">DISCOVER</string>
+    <string name="subtitle">CHOOSE A CATEGORY</string>
+    <string name="listen">LISTEN</string>
+    <string name="read">READ</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="quiz">TAKE A QUIZ</string>
+    <string name="music">MEDITATING MUSIC</string>
+    <string name="meditation">MEDITATION AND YOGA</string>
+
+    <!--Quiz-->
+    <string name="score">SCORE</string>
+    <string name="marks">2/28</string>
+    <string name="result">-</string>
+    <string name="activities">GO TO ACTIVITIES</string>
+    <string name="activityb">ACTIVITY</string>
+    <string name="count">1/7</string>
+    <string name="question">what?</string>
+    <string name="opt4">opt4</string>
+    <string name="opt3">opt3</string>
+    <string name="opt2">opt2</string>
+    <string name="opt1">opt1</string>
+    <string name="upload">upload</string>
+
+    <!--Anxiety Music-->
+    <string name="anxiety_music1">Marconi Union - Weightless</string>
+    <string name="anxiety_music2">Pure Chill Out - Airstream</string>
+    <string name="anxiety_music3">Enya</string>
+    <string name="anxiety_music4">Strawberry Swing</string>
+    <string name="anxiety_music5">Barcelona</string>
+    <string name="anxiety_relief">Reducing anxiety through the power of Music</string>
+    <string name="anxiety_science_text">"Music has a calming influence on the body and mind, as it produces endorphins \— natural painkillers usually produced during a happy state of mind \— thus, lowering stress and anxiety, and promoting relaxation by reducing muscle tension. Through music, young people with anxiety issues can focus better, avoid distraction and negative thoughts, and increase productivity. "</string>
+    <string name="stress_science">Science Behind Music</string>
+    <string name="playlist">PLAYLIST</string>
+    <string name="play">play</string>
+
+    <!--Depression music-->
+    <string name="depression_relief">Reducing Depression through the power of Music</string>
+    <string name="depression_science_text">The most important thing you can do when you are feeling depressed is resist the sad music on your phone or in your CD collection. Listening to sad music does more harm than good, and can actually lower your mood and leave you feeling worse than before. Instead, you need upbeat and uplifting songs on your playlist to really help you fight the battle and win against your depression.</string>
+    <string name="dep_music1">\nBinaural Beats</string>
+    <string name="dep_music2">\nRequiem Aeternam</string>
+    <string name="dep_music3">\nSomewhere, West Side Story</string>
+    <string name="dep_music4">\nA Lullaby, by Ryan Murphy</string>
+    <string name="dep_music5">\nChopin - Nocturne op.9 No.2</string>
+
+    <!--Depression read-->
+    <string name="what5">What is Depression?</string>
+    <string name="DepressionDef">Depression is classified as a mood disorder. It may be described as feelings of sadness, loss, or anger that interfere with a person’s everyday activities.\n\nDepression can be broken into categories depending on the severity of symptoms. Some people experience mild and temporary episodes, while others experience severe and ongoing depressive episodes.\n\n
+
+There are two main types:\n\n1) Major depressive disorder: It is the more severe form of depression. It’s characterized by persistent feelings of sadness, hopelessness, and worthlessness that don’t go away on their own.\n\n2) Persistent depressive disorder (PDD): It is also called dysthymia. It\’s a milder, but chronic, form of depression.</string>
+    <string name="depressionSymp">Depression can be more than a constant state of sadness or feeling “blue.”\n\n
+
+1) Mood, such as anger, aggressiveness, irritability, anxiousness, restlessness\n\n
+2) Emotional well-being, such as feeling empty, sad, hopeless\n\n
+3) behavior, such as loss of interest, no longer finding pleasure in favorite activities, feeling tired easily, thoughts of suicide, drinking excessively, using drugs, engaging in high-risk activities\n\n
+4) Cognitive abilities, such as inability to concentrate, difficulty completing tasks, delayed responses during conversations\n\n
+5) Sleep patterns, such as insomnia, restless sleep, excessive sleepiness, not sleeping through the night\n\n6) Physical well-being, such as fatigue, pains, headache, digestive problems. Women may also experience changes in appetite, weight changes, aches, increased cramps.
+</string>
+    <string name="DepressionCauses">There are several possible causes of depression. They can range from biological to circumstantial.\n\n
+
+Common causes include:\n\n
+
+1) Family history. You’re at a higher risk for developing depression if you have a family history of depression or another mood disorder.\n\n
+2) Early childhood trauma. Some events affect the way your body reacts to fear and stressful situations.\n\n
+3) Brain structure. There’s a greater risk for depression if the frontal lobe of your brain is less active. However, scientists don’t know if this happens before or after the onset of depressive symptoms.\n\n
+4) Medical conditions. Certain conditions may put you at higher risk, such as chronic illness, insomnia, chronic pain, or attention-deficit hyperactivity disorder (ADHD).\n\n
+5) Drug use. A history of drug or alcohol misuse can affect your risk.</string>
+    <string name="depressionImprovement">1) The key to self-treatment for depression is to be open, accepting, and loving toward yourself and what you’re going through.\n\n2) Know that today isn\’t indicative of tomorrow. Give yourself the grace to accept that while some days will be difficult, some days will also be great. Try to look forward to tomorrow\’s fresh start.\n\n3) Do the opposite of what the \'depression voice\' suggests.
+The negative voice in your head may talk you out of self-help. However, if you can learn to recognize it, you can learn to replace it. Use logic as a weapon. Address each thought individually as it occurs.\n\n4) When you achieve a goal, do your best to recognize it.
+
+You may not feel like celebrating with a cake and confetti, but recognizing your own successes can be a very powerful weapon against depression\'s negative weight.\n\n5) If depressive symptoms disrupt your daily routine, setting a gentle schedule may help you feel in control.</string>
+    <string name="causesDep">Causes of Depression</string>
+    <string name="symDep">Symptoms </string>
+    <string name="improveDep">Ways to Reduce Depression</string>
+
+
+    <!--Anxiety Read-->
+    <string name="what2">What is Anxiety?</string>
+    <string name="AnxietySymp">"While a number of different diagnoses constitute anxiety disorders, the symptoms of generalized anxiety disorder (GAD) will often include the following:\n\n1) restlessness, and a feeling of being \"on-edge\"\n2) uncontrollable feelings of worry\n3) increased irritability\n4) concentration difficulties\n5) sleep difficulties, such as problems in falling or staying asleep.\n\n While these symptoms might be normal to experience in daily life, people with GAD will experience them to persistent or extreme levels. "</string>
+    <string name="AnxietyDef">It\’s normal to feel anxious about moving to a new place, starting a new job, or taking a test. This type of anxiety is unpleasant, but it may motivate you to work harder and to do a better job. Ordinary anxiety is a feeling that comes and goes, but does not interfere with your everyday life.\n\n  In the case of an anxiety disorder, the feeling of fear may be with you all the time. It is intense and sometimes debilitating.\n\n  This type of anxiety may cause you to stop doing things you enjoy. In extreme cases, it may prevent you from entering an elevator, crossing the street, or even leaving your home. If left untreated, the anxiety will keep getting worse.\n\n  Anxiety disorders are the most common form of emotional disorder and can affect anyone at any age. According to the American Psychiatric Association, women are more likely than men to be diagnosed with an anxiety disorder.</string>
+    <string name="AnxietyCauses">The causes of anxiety disorders are complicated. Many might occur at once, some may lead to others, and some might not lead to an anxiety disorder unless another is present.  Possible causes include:\n\n1)  environmental stresses, such as difficulties at work, relationship problems, or family issues\n\n2) genetics, as people who have family members with an anxiety disorder are more likely to experience one themselves\n\n3) medical factors, such as the symptoms of a different disease, the effects of a medication, or the stress of an intensive surgery or prolonged recovery\n\n4) brain chemistry, as psychologists define many anxiety disorders as misalignment of hormones and electrical signals in the brain\n\n5) withdrawal from an illicit substance, the effects of which might intensify the impact of other possible causes</string>
+    <string name="anxietyImprovement">\nTreatments will consist of a combination of psychotherapy, behavioral therapy, and medication.  Alcohol dependence, depression, or other conditions can sometimes have such a strong effect on mental well-being that treating an anxiety disorder must wait until any underlying conditions are brought under control.\n\n
+    1) Stress management by organize any upcoming pressures and deadlines, compile lists to make daunting tasks more manageable, and commit to taking time off from study or work.\n\n2) Relaxation techniques such as yoga, meditation, deep breathing exercises.\n\n3) Exercises to replace negative thoughts with positive ones.\n\n4) Talk with familiar people who are supportive, such as a family member or friend.\n\n\n </string>
+    <string name="causesA">Causes of Anxiety</string>
+    <string name="symA">Symptoms </string>
+    <string name="improveA">Ways to Reduce Anxiety</string>
+
+
+    <!--Stress Read-->
+    <string name="what">What is Stress?</string>
+    <string name="stressDef">Stress is a feeling of emotional or physical tension. It can come from any event or thought that makes you feel frustrated, angry, or nervous.
+        Stress is your body\'s reaction to a challenge or demand. In short bursts, stress can be positive, such as when it helps you avoid danger or meet a deadline. But when stress lasts for a long time, it may harm your health.
+        Stress is a normal feeling.\n\n There are two main types of stress:\n\n
+        1) Acute stress. This is short-term stress that goes away quickly.\n
+        2) Chronic stress. This is stress that lasts for a longer period of time.</string>
+    <string name="stressSymp">Your body reacts to stress by releasing hormones.\n Over time, this puts you at risk for health problems, including:\n\nHigh blood pressure\nHeart disease\nDiabetes\nObesity
+     \nDepression or anxiety\nSkin problems, such as acne or eczema\nMenstrual problems\nIf you already have a health condition, chronic stress can make it worse.
+    </string>
+    <string name="stressCauses">Everyone has different stress triggers. These triggers may be work stress or life stress.\n\nCauses of work stress include:\n
+1) Being unhappy in your job
+\n2) Having a heavy workload or too much responsibility
+\n3) Working long hours
+\n4) Having poor management, unclear expectations of your work, or no say in the decision-making process
+\n5)Being insecure about your chance for advancement or risk of termination
+\n6) Having to give speeches in front of colleagues
+\n7) Facing discrimination or harassment at work, especially if your company isn\'t supportive\n\n
+        Causes of life stresses include:
+        \n1) The death of a loved one\n2) Divorce\n3) Loss of a job\n4) Increase in financial obligations\n5) Getting married
+\n6) Moving to a new home\n7)Chronic illness or injury</string>
+    <string name="stressImprovement">Follow these 10 simple tips to reduce and manage your Stress\n\n
+        1.  Avoid Caffeine, Alcohol, and Nicotine\n
+        2.  Indulge in Physical Activity\n
+        3.  Get more Sleep\n
+        4.  Try Relaxation Techniques\n
+        5.  Talk to Someone\n
+        6.  Keep a Stress Diary\n
+        7.  Take Control\n
+        8.  Manage your Time\n
+        9.  Learn to Say \‘No\’\n
+        10. Rest if you are Ill\n\n\n</string>
+    <string name="causesS">Causes of Stress</string>
+    <string name="symS">Symptoms </string>
+    <string name="improveS">Ways to Reduce Stress</string>
+
+    <!--Stress Music-->
+    <string name="stress_relief">Releasing stress through the power of music</string>
+    <string name="stress_science_text">Music can have a profound effect on both the emotions and the body.\n\nCurrent findings indicate that music around 60 beats per minute can cause the brain to synchronize with the beat causing alpha brainwaves (frequencies from 8 \- 14 hertz or cycles per second). This alpha brainwave is what is present when we are relaxed and conscious.\n\nHow do you choose the relaxation music that is best for you? The answer partly rests with you: You must first like the music being played, and then it must relax you. Forcing yourself to listen to relaxation music that irritates you can create tension, not reduce it. \n\nIt is important to remember that quieting your mind does not mean you will automatically feel sleepy. It means your brain and body are relaxed, and with your new calm self, you can then function at your best in many activities.</string>
+    <string name="music1">\nA Moment of Peace Meditation</string>
+    <string name="music2">\nEchoes of Time</string>
+    <string name="music3">\nClassical Indian Music</string>
+    <string name="music4">\nBuddha spirits</string>
+    <string name="music5">\nAs Twilight fades</string>
+
+
+
+    <!--Yoga-->
+    <string name="yoga">Audio Meditation</string>
+    <string name="yoga1">\nMEDITATION 1</string>
+    <string name="yoga2">\nMEDITATION 2</string>
+    <string name="yoga3">\nMEDITATION 3</string>
+    <string name="yoga4">\nMEDITATION 4</string>
+
+
+</resources>

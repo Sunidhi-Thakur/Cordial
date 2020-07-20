@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "10848921196",
+    "firebase_url": "https://health-project-9c67b.firebaseio.com",
+    "project_id": "health-project-9c67b",
+    "storage_bucket": "health-project-9c67b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10848921196:android:0d2dc6ebd9fb9823359a49",
+        "android_client_info": {
+          "package_name": "com.example.cordial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10848921196-katkh0q2p2cdu7tl5rotjbhu8e2uipsa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoEv3YLNf1t_ZCzHW-_RXjxg-tKsxj7lQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10848921196-katkh0q2p2cdu7tl5rotjbhu8e2uipsa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
